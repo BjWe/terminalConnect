@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="terminalConnect.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="13" Y="10"/>
+        <UsageCount Value="1416"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="483"/>
+        <CursorPos X="61" Y="504"/>
+        <UsageCount Value="1416"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="bar.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="9"/>
+        <CursorPos X="15" Y="28"/>
+        <UsageCount Value="1416"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="/usr/share/lazarus/1.3/lcl/include/customform.inc"/>
+        <TopLine Value="2168"/>
+        <CursorPos Y="2183"/>
+        <UsageCount Value="693"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/share/lazarus/1.3/lcl/forms.pp"/>
+        <UnitName Value="Forms"/>
+        <UsageCount Value="693"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="/usr/share/fpcsrc/2.7.1/packages/rtl-extra/src/unix/sockets.pp"/>
+        <UnitName Value="Sockets"/>
+        <CursorPos X="5" Y="20"/>
+        <UsageCount Value="690"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="main.pas"/>
+        <Caret Line="184" Column="40" TopLine="163"/>
+      </Position1>
+      <Position2>
+        <Filename Value="main.pas"/>
+        <Caret Line="187" Column="17" TopLine="151"/>
+      </Position2>
+      <Position3>
+        <Filename Value="main.pas"/>
+        <Caret Line="95" Column="48" TopLine="70"/>
+      </Position3>
+      <Position4>
+        <Filename Value="main.pas"/>
+        <Caret Line="231" Column="47" TopLine="204"/>
+      </Position4>
+      <Position5>
+        <Filename Value="main.pas"/>
+        <Caret Line="459" Column="41" TopLine="442"/>
+      </Position5>
+      <Position6>
+        <Filename Value="main.pas"/>
+        <Caret Line="448" Column="25" TopLine="431"/>
+      </Position6>
+      <Position7>
+        <Filename Value="main.pas"/>
+        <Caret Line="449" Column="25" TopLine="432"/>
+      </Position7>
+      <Position8>
+        <Filename Value="main.pas"/>
+        <Caret Line="450" Column="25" TopLine="433"/>
+      </Position8>
+      <Position9>
+        <Filename Value="main.pas"/>
+        <Caret Line="449" Column="25" TopLine="432"/>
+      </Position9>
+      <Position10>
+        <Filename Value="main.pas"/>
+        <Caret Line="444" Column="10" TopLine="433"/>
+      </Position10>
+      <Position11>
+        <Filename Value="main.pas"/>
+        <Caret Line="361" Column="57" TopLine="343"/>
+      </Position11>
+      <Position12>
+        <Filename Value="main.pas"/>
+        <Caret Line="322" Column="4" TopLine="306"/>
+      </Position12>
+      <Position13>
+        <Filename Value="main.pas"/>
+        <Caret Line="361" Column="57" TopLine="342"/>
+      </Position13>
+      <Position14>
+        <Filename Value="main.pas"/>
+        <Caret Line="104" Column="4" TopLine="88"/>
+      </Position14>
+      <Position15>
+        <Filename Value="main.pas"/>
+        <Caret Line="361" Column="57" TopLine="339"/>
+      </Position15>
+      <Position16>
+        <Filename Value="main.pas"/>
+        <Caret Line="320" Column="46" TopLine="306"/>
+      </Position16>
+      <Position17>
+        <Filename Value="main.pas"/>
+        <Caret Line="361" Column="64" TopLine="345"/>
+      </Position17>
+      <Position18>
+        <Filename Value="main.pas"/>
+        <Caret Line="260" Column="15" TopLine="241"/>
+      </Position18>
+      <Position19>
+        <Filename Value="main.pas"/>
+        <Caret Line="266" Column="11" TopLine="246"/>
+      </Position19>
+      <Position20>
+        <Filename Value="main.pas"/>
+        <Caret Line="138" Column="3" TopLine="128"/>
+      </Position20>
+      <Position21>
+        <Filename Value="main.pas"/>
+        <Caret Line="281" Column="44" TopLine="262"/>
+      </Position21>
+      <Position22>
+        <Filename Value="main.pas"/>
+        <Caret Line="320" TopLine="304"/>
+      </Position22>
+      <Position23>
+        <Filename Value="main.pas"/>
+        <Caret Line="399" Column="97" TopLine="375"/>
+      </Position23>
+      <Position24>
+        <Filename Value="main.pas"/>
+        <Caret Line="406" Column="97" TopLine="382"/>
+      </Position24>
+      <Position25>
+        <Filename Value="main.pas"/>
+        <Caret Line="393" Column="11" TopLine="386"/>
+      </Position25>
+      <Position26>
+        <Filename Value="terminalConnect.lpr"/>
+        <Caret Line="16" Column="5"/>
+      </Position26>
+      <Position27>
+        <Filename Value="terminalConnect.lpr"/>
+        <Caret Line="10" Column="13"/>
+      </Position27>
+      <Position28>
+        <Filename Value="main.pas"/>
+        <Caret Line="388" Column="57" TopLine="400"/>
+      </Position28>
+      <Position29>
+        <Filename Value="main.pas"/>
+        <Caret Line="339" Column="26" TopLine="304"/>
+      </Position29>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
